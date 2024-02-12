@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+    margin:  23px 150px;
+    padding: 60px;    
+}
+h1{
+    color: rgb(223, 188, 50);
+}
+button{
+    background-color: gold;
+    color: black;
+}
